@@ -1,4 +1,4 @@
-# pronomee
+# pronomih
 
 agender pronouns (proposal)
 
