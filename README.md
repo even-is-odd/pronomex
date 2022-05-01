@@ -4,5 +4,5 @@ agender pronouns (proposal)
 
 |          | Subject | Object | Possessive determiner | Possessive pronoun | Reflexive |
 |----------|---------|--------|-----------------------|--------------------|-----------|
-| Singular |    ih   |   ihm  |          ir           |        irs         |  irself   |
+| Singular |    AA   |   AB   |          CCr          |        CCrs        |  ABself   |
 | Plural   |    ey   |   em   |          eir          |        eirs        |  emselves |
