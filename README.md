@@ -1,4 +1,4 @@
-# pronomyx
+# pronomex
 
 agender pronouns (proposal)
 
